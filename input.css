@@ -1,0 +1,51 @@
+body{
+  background-color: #efefef;
+ }
+  .id-code{
+   text-align: center;
+  }
+  .container{
+   background-color: white;
+   border: 1px solid lightgray;
+   border-radius: 8px;
+   height: 208px;
+   width: 338px;
+  }
+  .eai{
+   position: relative;
+   top: 25px;
+   left: 59px;
+   width:150px;
+   font-size: 20px;
+  }
+  .fst{
+   border-bottom: 1px solid lightgray;
+  }
+  .one{
+   font-size: 22px;
+   margin-left: 10px;
+   background-color: blueviolet;
+   color: white;
+   width: 45px;
+   height: 45px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-radius: 100px;
+   position: relative;
+   bottom: 10px;
+  }
+  input{
+   height: 35px;
+   width: 300px;
+   position: relative;
+   top: 18%;
+   left: 4%;
+   border-radius: 20px;
+   border: 1px solid black;
+  }
+   .txt{
+    position: relative;
+    top: 70px;
+    left: 10px;
+   }
